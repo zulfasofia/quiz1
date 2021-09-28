@@ -1,0 +1,33 @@
+*, body{
+  margin: 1ch;
+  padding: 1ch;
+}
+body{
+  background-color: #fce1d6;
+}
+
+/*navbar*/
+nav{
+  position:relative;
+  width: 95%;
+  height: 80%;
+  background-color:#fff9f7;
+  box-shadow: -1px -7px 20px 0px #888;
+}
+ul{
+  position: relative;
+  top: 70px;
+  margin: 0;
+  float:left;
+}
+a{
+  float: left;
+  display: block;
+  margin: 0px 10px 0px 10px;
+  text-decoration: none;
+  color: #ac3b61;
+  font-weight: 500;
+  font-family: 'Comic Sans MS';
+  font-size: 28;
+  line-height: 1cm;
+}
