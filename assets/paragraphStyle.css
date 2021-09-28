@@ -21,6 +21,11 @@ a{
   margin: 1ch;
 }
 
+h3{
+  font-family:'Segoe UI';
+  text-align: left;
+  color: #123c69;
+}
 p{
   position: relative;
   font-family: 'Segoe UI';
