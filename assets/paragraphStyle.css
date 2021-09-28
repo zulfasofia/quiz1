@@ -1,0 +1,30 @@
+*, body{
+  margin: 0.5ch;
+  padding: 0.5ch;
+}
+
+body{color: #eee2dc;}
+
+h1{
+  font-family: 'Comic Sans MS';
+  text-align: center;
+  color: #ac3b61;
+}
+
+h4{
+  font-family:'Segoe UI';
+  font-weight: normal;
+  color: #ac3b61;
+}
+a{
+  text-decoration: none;
+  margin: 1ch;
+}
+
+p{
+  position: relative;
+  font-family: 'Segoe UI';
+  float: left;
+  text-align: left;
+  color: #123c69;
+}
